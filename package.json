@@ -35,8 +35,10 @@
   "homepage": "https://github.com/hendrathings/angular2-nvd3#readme",
   "dependencies": {
     "@types/d3": "^3.5.35",
+    "@types/lodash": "^4.14.62",
     "@types/nvd3": "^1.8.33",
     "d3": "^3.5.17",
+    "lodash": "^4.17.4",
     "nvd3": "^1.8.5"
   },
   "devDependencies": {
